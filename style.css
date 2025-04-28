@@ -1,0 +1,24 @@
+.pepsi{
+  background-color: rgb(195, 195, 255); color: white; text-align: center; font-size: 30px;
+}
+body{
+    background-color: rgb(130, 49, 49);
+}
+.cola{
+    background-color: rgb(252, 231, 202); 
+}
+.sprite{
+ background-color: white; border: 1px solid black; margin-right: 1000px; border-radius: 5px; margin-bottom: 20px;
+}
+.fil{
+    background-color: black; color: white; border-radius: 100px; text-align: center; margin-left: 120px; margin-right: 120px;
+}
+.hh{
+    text-align: center;
+}
+.gg{
+    text-align: center; color: gray;
+}
+.ff{
+    margin-left: 100px;
+}
